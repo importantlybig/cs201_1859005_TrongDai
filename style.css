@@ -1,0 +1,23 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.container .fixheigh {
+	height: 400px;
+}
+
+img.card-img-top.img-fluid.fiximg {
+    height: 500px;
+    object-fit: contain;
+}
+
+
+.card.text-center.p-4 {
+    height: 600px;
+}
